@@ -1,6 +1,6 @@
-## Oi, me chamo Poema!
+## Oi, me chamo Poema!<img src="https://user-images.githubusercontent.com/105015617/187973269-cfea430d-4776-4992-8874-b78760ba33ee.gif" align="right" width="70" height="70"/>      
 ### Esse é o meu perfil no GitHub. 🌱
--💻 Residência em Software - Serratec        <img src="https://user-images.githubusercontent.com/105015617/187973269-cfea430d-4776-4992-8874-b78760ba33ee.gif" align="right" width="40" height="40"/>               
+-💻 Residência em Software - Serratec                 
 -🌎 Línguas: 🇧🇷 🇺🇸 🇩🇪 🇨🇳 🇫🇷
 ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
