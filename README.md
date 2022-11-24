@@ -1,9 +1,17 @@
-## Oi, me chamo Poema!  
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/105015617/203800200-9c12d809-dbb2-421c-9f50-f54c0de07164.jpg"  width="90%" height="90%"/>
+<div/>
+
+ <div align=left>
+   
+<h3> Oi, me chamo Poema!  <h3/>
                           
-<h3> Esse é o meu perfil no GitHub. 💟
+<h4> ♡ 💟Esse é o meu perfil no GitHub.<h4/>
 <h4 > ♡ 💻 Residência em Software - Serratec <h4/>                 
 <h4 >♡ 🌎 Línguas: 🇧🇷 🇺🇸 🇩🇪 🇨🇳 🇫🇷 <h4/>
-<h3/>
+
+  <div/>
   <div>
  <img src="https://user-images.githubusercontent.com/105015617/187973269-cfea430d-4776-4992-8874-b78760ba33ee.gif" width="120" height="100" />
   <div/>
@@ -32,6 +40,10 @@
   <br>
   
 <a href="https://github.com/poemabochner/github-readme-activity-graph"><img alt="Poema's activity graph" src="https://activity-graph.herokuapp.com/graph?username=poemabochner&bg_color=ffb0d5&color=ff1c86&line=ff1c86&point=19b7ff&hide_border=true" /></a>
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
   
   <div>
