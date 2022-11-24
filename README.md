@@ -32,3 +32,9 @@
   <br>
   
 <a href="https://github.com/poemabochner/github-readme-activity-graph"><img alt="Poema's activity graph" src="https://activity-graph.herokuapp.com/graph?username=poemabochner&bg_color=ffb0d5&color=ff1c86&line=ff1c86&point=19b7ff&hide_border=true" /></a>
+  <br>
+  
+  <div>
+  <img src="https://user-images.githubusercontent.com/105015617/203797674-f627c264-95d1-46b0-ac6f-45a0e67ec0ec.gif" width="10%" height="10%"/>
+   <div/>
+
