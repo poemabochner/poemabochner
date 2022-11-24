@@ -1,4 +1,5 @@
-## Oi, me chamo Poema!                             
+## Oi, me chamo Poema!  
+                          
 <h3> Esse é o meu perfil no GitHub. 💟
 <h4 > ♡ 💻 Residência em Software - Serratec <h4/>                 
 <h4 >♡ 🌎 Línguas: 🇧🇷 🇺🇸 🇩🇪 🇨🇳 🇫🇷 <h4/>
@@ -17,8 +18,9 @@
                               
 <p/>
 
-<div background_color=#ffb0d5>
+<div align=center>
 <hr>
+  <img src="https://user-images.githubusercontent.com/105015617/203795931-cd292cf1-d602-44eb-b807-c048a931d509.gif" width="50%" height="80%"/>
 <div/>
     
 <div align=center>
