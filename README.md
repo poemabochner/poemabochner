@@ -2,6 +2,10 @@
 <div align=center>
 <img src="https://user-images.githubusercontent.com/105015617/203800200-9c12d809-dbb2-421c-9f50-f54c0de07164.jpg"  width="100%" height="70%"/>
 <div/>
+ 
+ <p align="center"> 
+<img src="http://img.shields.io/static/v1?label=FullStack%20Developer:&message=EM%20DESENVOLVIMENTO&color=ff0092&style=for-the-badge"/>
+</p>
 
 <div align=left> 
 <h3> Oi, me chamo Poema!  <h3/>                     
