@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>                         
 </div>
-
+<br>
 <div align=center>
 <img src="https://user-images.githubusercontent.com/105015617/205109708-7455b78a-0eff-4d7a-a1f2-39fcae4a32a0.gif" width=10% height=10% />
 </div>
