@@ -15,7 +15,7 @@
 <h4>♡ 🌎 Línguas: 🇧🇷 🇺🇸 🇩🇪 🇨🇳 🇫🇷 </h4>
 </div>
  
-<p align=center> ♡ 📝 Estou aprendendo:</p>
+<h4 align=center> ♡ 📝 Estou aprendendo:</h4>
 <div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
