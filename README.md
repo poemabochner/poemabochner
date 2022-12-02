@@ -9,9 +9,18 @@
 <div align=center> 
 <h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer em desenvolvimento.</h4>
-<h4> ♡ 💻 Residência em Software - Serratec </h4>                 
-<h4>♡ 🌎 Línguas: 🇧🇷 🇺🇸 🇩🇪 🇨🇳 🇫🇷 </h4>
+<h4> ♡ 💻 Residência em Software - Serratec </h4>            
 </div>
+<div align=center>
+ <p>
+  <h4> ♡ 🌎 Línguas: </h4>
+  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
+  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
+ <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
+ <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/china.png">
+  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/france.png">
+ </p>
+ </div>
  
 <h4 align=center> ♡ 📝 Estou aprendendo:</h4>
 <div align=center>
