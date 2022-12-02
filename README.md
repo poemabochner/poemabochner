@@ -62,8 +62,17 @@
   <br>
  
   
-  <div align=center>
-  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width="20%" height="20%"/>
-  </div>
  
+ <div align=center>
+<img src="https://user-images.githubusercontent.com/105015617/205375418-22ef99f7-2d5e-492b-97b8-0c6d659cbc81.gif" width="40%" height="40%"/>
+  </div>
+  <br>
+  <br>
+  <br>
+  <br>
+ 
+  <div align=center>
+  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width="15%" height="15%"/>
+  </div>
+  
 
