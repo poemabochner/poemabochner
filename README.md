@@ -44,7 +44,8 @@
 <img height=80% width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=poemabochner&layout=compact&langs_count=7&theme=dracula&bg_color=ffb0d5&color=de096c"/>
 <img height=100% width=45% src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
 </div>
- 
+ <br>
+ <br>
 <br>
  
 
