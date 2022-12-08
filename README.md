@@ -55,13 +55,13 @@
 <img height=100% width=45% src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
 </div>
  <br>
-
+<br>
 
  <div align=center>
- <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width=8% height=8% />
+ <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width=10% height=10% />
 </div>
  
- 
+ <br>
  <br>
  
   
@@ -71,10 +71,9 @@
   </div>
   <br>
   <br>
-  <br>
  
   <div align=center>
-  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width="10%" height="10%"/>
+  <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width="6%" height="6%"/>
   </div>
   
 
