@@ -63,7 +63,7 @@
 </div>
  
  <div align=center>
-   <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=750px height=4px/>
+   <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=70% height=4px/>
  </div>
  <br>
   <br>
