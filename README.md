@@ -6,24 +6,24 @@
 
 <br>
  
-<div align=center> 
-<h3> Oi, me chamo Poema!  </h3>                     
+<div> 
+&nbsp;&nbsp;&nbsp;&nbsp;<h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer em desenvolvimento.</h4>
 <h4> ♡ 💻 Residência em Software - Serratec </h4>            
 </div>
-<div align=center>
+<div>
  <p>
   <h4> ♡ 🌎 Línguas: </h4>
-  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
-  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
- <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
- <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/china.png">
-  <img align="center" height="25" width="25" src="https://img.icons8.com/color/344/france.png">
+  <img  height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
+  <img  height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
+ <img  height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
+ <img  height="25" width="25" src="https://img.icons8.com/color/344/china.png">
+  <img  height="25" width="25" src="https://img.icons8.com/color/344/france.png">
  </p>
  </div>
  
-<h4 align=center> ♡ 📝 Estou aprendendo:</h4>
-<div align=center>
+<h4 > ♡ 📝 Estou aprendendo:</h4>
+<div >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
@@ -31,16 +31,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>                         
 </div>
 <br>
+<br>
+
+ <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=100% height=4px/>
 <div align=center>
+ 
 <img src="https://user-images.githubusercontent.com/105015617/205109708-7455b78a-0eff-4d7a-a1f2-39fcae4a32a0.gif" width=10% height=10% />
 </div>
 
 <br>
 <div align=center>
- <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=750px/>
- 
- <br>
- <br>
+
 <img src="https://user-images.githubusercontent.com/105015617/205109009-10315bf0-8649-414f-8578-8110d6d3f338.gif" width=50% height=1% />
 </div>
    
@@ -62,10 +63,11 @@
 </div>
  
  <div align=center>
-   <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=750px/>
+   <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=750px height=4px/>
  </div>
  <br>
   <br>
+ <br>
  
   
  
@@ -75,10 +77,9 @@
   <br>
   <br>
   <br>
-  <br>
  
   <div align=center>
-  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width="12.5%" height="12.5%"/>
+  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width="10%" height="10%"/>
   </div>
   
 
