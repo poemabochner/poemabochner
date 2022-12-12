@@ -7,7 +7,7 @@
 <br>
  
 <div> 
-&nbsp;&nbsp;&nbsp;&nbsp;<h3> Oi, me chamo Poema!  </h3>                     
+<h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer em desenvolvimento.</h4>
 <h4> ♡ 💻 Residência em Software - Serratec </h4>            
 </div>
@@ -50,7 +50,7 @@
 <br>
 <div align=center>
 
-<img src="https://user-images.githubusercontent.com/105015617/205109009-10315bf0-8649-414f-8578-8110d6d3f338.gif" width=50% height=1% />
+<img src="https://user-images.githubusercontent.com/105015617/205109009-10315bf0-8649-414f-8578-8110d6d3f338.gif" width=40% height=1% />
 </div>
    
 
@@ -81,7 +81,7 @@
   <br>
  
   <div align=center>
-  <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width="6%" height="6%"/>
+  <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width="5%" height="5%"/>
   </div>
   
 
