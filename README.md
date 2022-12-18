@@ -81,7 +81,7 @@
   <br>
  
   <div align=center>
-  <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width="5%" height="5%"/>
+  <img src="https://user-images.githubusercontent.com/105015617/206471265-acd93eb7-f92d-4371-a331-8e465703f73d.gif" width="5.5%" height="5.5%"/>
   </div>
   
 
