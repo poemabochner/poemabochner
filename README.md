@@ -57,18 +57,18 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
 </div>
  <br>
-<br>
-
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poemabochner&theme=dracula&bg_color=ffb0d5&color=de096c&point=86dfe5&title_color=ff639d)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <div align=center>
+   <br>
  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width=10% height=10% />
+  
 </div>
- 
- <br>
- <br>
- 
   
  
  <div align=center>
+   <br>
+ 
 <img src="https://user-images.githubusercontent.com/105015617/205375418-22ef99f7-2d5e-492b-97b8-0c6d659cbc81.gif" width="40%" height="40%"/>
   </div>
   <br>
