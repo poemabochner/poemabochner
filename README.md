@@ -41,17 +41,15 @@
  <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=100% height=4px/>
 <div align=center>
 
-<div align=center>
- <br>  
-<img src="https://user-images.githubusercontent.com/105015617/205109009-10315bf0-8649-414f-8578-8110d6d3f338.gif" width=40% height=1% />
- <br>  
-</div>
+
    
 
 
 
 <div align=center >
-<h4> ♡ most used languages and stats:</h4>
+ 
+<h3> ♡ most used languages and stats:</h3>
+ <br>
 <a href="https://github.com/poemabochner">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poemabochner&layout=compact&langs_count=7&theme=dracula&bg_color=ffb0d5&color=de096c"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
@@ -65,17 +63,9 @@
   </div>
   
  
-  
- 
- <div align=center>
-   <br>
- 
-<img src="https://user-images.githubusercontent.com/105015617/205375418-22ef99f7-2d5e-492b-97b8-0c6d659cbc81.gif" width="40%" height="40%"/>
-  </div>
-  <br>
- 
 <div align=center>
    <br>
+  <br>
  <img src="https://user-images.githubusercontent.com/105015617/205104497-288bb32f-9000-4752-9de4-bc4e934cc108.gif" width=10% height=10% />
   
 </div>
