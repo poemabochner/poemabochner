@@ -32,25 +32,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>         
+      
           
           
 </div>
-<br>
-<br>
-
+<br>  
  <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=100% height=4px/>
 <div align=center>
- 
-<img src="https://user-images.githubusercontent.com/105015617/205109708-7455b78a-0eff-4d7a-a1f2-39fcae4a32a0.gif" width=10% height=10% />
-</div>
 
-<br>
 <div align=center>
-
+ <br>  
 <img src="https://user-images.githubusercontent.com/105015617/205109009-10315bf0-8649-414f-8578-8110d6d3f338.gif" width=40% height=1% />
+ <br>  
 </div>
    
 
@@ -59,8 +53,8 @@
 <div align=center>
 <h4> ♡ most used languages and stats:</h4>
 <a href="https://github.com/poemabochner">
-<img height=80% width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=poemabochner&layout=compact&langs_count=7&theme=dracula&bg_color=ffb0d5&color=de096c"/>
-<img height=100% width=45% src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poemabochner&layout=compact&langs_count=7&theme=dracula&bg_color=ffb0d5&color=de096c"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
 </div>
  <br>
 <br>
