@@ -22,22 +22,11 @@
  </p>
  </div>
  
-<h4 > ♡ 📝 Estou aprendendo:</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
- </div>
+ 
+ 
  
  <div align=center>  
- <br>
- <br>
+ 
 <a href="https://instagram.com/mainxahri_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:poemabochner8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/poema-bochner-7401a8209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -45,7 +34,7 @@
 </div>          
           
 </div>
-<br>  
+  
  <img src="https://user-images.githubusercontent.com/105015617/205105998-c24edb84-aa97-4f71-988d-b7ea79dd355f.jpg" width=100% height=4px/>
 <div align=center>
 
@@ -56,21 +45,36 @@
 
 <div align=center >
  
+  <div> 
+    <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+   <br>
+ </div>
+ 
 <h3> ♡ most used languages and stats:</h3>
  <br>
+ 
 <a href="https://github.com/poemabochner">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poemabochner&layout=compact&langs_count=7&theme=dracula&bg_color=ffb0d5&color=de096c"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=poemabochner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffb0d5&color=de096c"/>
 </div>
  <br>
- <br>
+
  
  <div align=center>
   
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poemabochner&theme=dracula&bg_color=ffb0d5&color=de096c&point=86dfe5&title_color=ff639d)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
   
- 
+
 <div align=center>
    <br>
   <br>
