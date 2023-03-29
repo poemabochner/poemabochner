@@ -9,7 +9,7 @@
 <div> 
 <h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer em desenvolvimento.</h4>
-<h4> ♡ 💻 Residência em Software - Serratec </h4>            
+<h4> ♡ 💻 Residência em TIC e Software - Serratec </h4>            
 </div>
 <div>
  <p>
