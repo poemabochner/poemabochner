@@ -75,7 +75,7 @@
  
  <div align=center>
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=poemabochner&theme=dracula&bg_color=ffb0d5&color=de096c&point=86dfe5&title_color=ff639d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poemabochner&theme=dracula&bg_color=ffb0d5&color=de096c&point=86dfe5&title_color=ff639d)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
   
 
