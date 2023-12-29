@@ -15,11 +15,12 @@
 <div>
  <p>
   <h4> ♡ 🌎 Línguas: </h4>
-  <img  height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
-  <img  height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
- <img  height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
- <img  height="25" width="25" src="https://img.icons8.com/color/344/china.png">
-  <img  height="25" width="25" src="https://img.icons8.com/color/344/france.png">
+   <img  height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
+   <img  height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
+   <img  height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
+   <img  height="25" width="25" src="https://img.icons8.com/color/344/china.png">
+   <img  height="25" width="25" src="https://img.icons8.com/color/344/france.png">
+          
  </p>
  </div>
  
@@ -49,18 +50,23 @@
  
   <div> 
     <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
+
+          
    <br>
  </div>
  
