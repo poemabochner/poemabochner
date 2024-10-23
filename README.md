@@ -10,7 +10,7 @@
 <h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer.</h4>
 <h4> ♡ 💻 Residência em TIC e Software - Serratec. </h4>
-<h4> ♡ ⭐ Programadora Trainee - Alterdata Software. </h4> 
+<h4> ♡ ⭐ Programadora - Alterdata Software. </h4> 
 </div>
 <div>
  <p>
