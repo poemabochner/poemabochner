@@ -10,7 +10,8 @@
 <h3> Oi, me chamo Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer.</h4>
 <h4> ♡ 💻 Residência em TIC e Software - Serratec. </h4>
-<h4> ♡ ⭐ Programadora - Alterdata Software. </h4> 
+<h4> ♡ ⭐ Programadora - Alterdata Software. </h4>
+<h4> ♡ 📚 Estudante de Ciência da Computação. </h4>
 </div>
 <div>
  <p>
@@ -59,8 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
 
