@@ -15,7 +15,7 @@
 </div>
 <div>
  <p>
-  <h4> ♡ 🌎 Línguas: </h4>
+  <h4> ♡ 🌎 Languages: </h4>
    <img  height="25" width="25" src="https://img.icons8.com/color/344/brazil.png">
    <img  height="25" width="25" src="https://img.icons8.com/color/344/usa.png">
    <img  height="25" width="25" src="https://img.icons8.com/color/344/germany.png">
