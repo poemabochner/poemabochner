@@ -7,7 +7,7 @@
 <br>
  
 <div> 
-<h3> Hi, my name is Poema!  </h3>                     
+<h3> Hi, my name is Poema! 你好，我是诗朋梦! </h3>                     
 <h4> ♡ 💟 FullStack Developer.</h4>
 <h4> ♡ 💻 ICT and Software Residency - Serratec. </h4>
 <h4> ♡ ⭐ Programmer - Alterdata Software. </h4>
