@@ -7,11 +7,11 @@
 <br>
  
 <div> 
-<h3> Oi, me chamo Poema!  </h3>                     
+<h3> Hi, my name is Poema!  </h3>                     
 <h4> ♡ 💟 FullStack Developer.</h4>
-<h4> ♡ 💻 Residência em TIC e Software - Serratec. </h4>
-<h4> ♡ ⭐ Programadora - Alterdata Software. </h4>
-<h4> ♡ 📚 Estudante de Ciência da Computação. </h4>
+<h4> ♡ 💻 ICT and Software Residency - Serratec. </h4>
+<h4> ♡ ⭐ Programmer - Alterdata Software. </h4>
+<h4> ♡ 📚 Computer Science Student. </h4>
 </div>
 <div>
  <p>
