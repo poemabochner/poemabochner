@@ -11,7 +11,7 @@
 <h4> ♡ 💟 FullStack Developer.</h4>
 <h4> ♡ 💻 ICT and Software Residency - Serratec. </h4>
 <h4> ♡ ⭐ Programmer - Alterdata Software. </h4>
-<h4> ♡ 📚 Computer Science Student. </h4>
+<h4> ♡ 📚 College Student in AI. </h4>
 </div>
 <div>
  <p>
@@ -63,6 +63,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+          
 
           
    <br>
